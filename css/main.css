@@ -1,0 +1,105 @@
+body {
+    background-color: #222;
+    color: #603813;
+    font: 100% 'Inconsolta', arial, sans-serif;
+}
+
+#wrapper {
+    text-align: center;
+    max-width: 820px;
+    margin: 5% auto 5% auto;
+    padding: 20px;
+    background: #f2f2f2;
+    box-shadow: 0 0 15px #fff;
+    border-radius: 15px;
+}
+
+a:link, a:focus, a:visited {
+    color: #22d028;
+    text-decoration: none;
+    font-weight: bold;
+    outline: none !important;
+}
+a:hover, a:active {
+    color: #fba142;
+    text-decoration: none;
+    outline: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #603813;
+	font-weight: bold;
+}
+
+.jumbotron {
+	background-color: #f2f2f2;
+	padding-top: 20px;
+	margin-bottom: 40px;
+}
+
+.footer {
+	padding: 120px 0 0 0;
+	font-weight: bold;
+}
+
+.btn-dark {
+	background-color: #96581e;
+	border: 1px solid #222;
+	margin: 0;
+	font-size: 22px;
+}
+
+.btn-dark:hover {
+	background-color: #28a745;
+	color: #fff;
+}
+
+.form-group {
+	color: #603813;
+	font-weight: bold;
+	margin: 0 auto;
+	width: 60%;
+}
+
+.form-control {
+	border: 1px solid #222;
+}
+
+.options-list {
+	display: inline;
+	padding-left: 40px;
+}
+
+.alert {
+	background-color: #B22222;
+	color: #fff;
+	border: 2px solid #222;
+	margin: 30px auto;
+	width: 60%;
+}
+
+.progress {
+	background-color: #fff;
+	border: 1px solid #222;
+	height: 30px;
+	width: 50%;
+	margin: 0 auto;
+}
+
+.red {
+	color: #28a745 !important;
+}
+
+#email, #password {
+	color: #603813;
+}
+
+#pizza-logo {
+	height: 350px;
+	width: auto;
+}
+
+#btn-start-order {
+	margin: 60px 0 40px 0;
+}
+
